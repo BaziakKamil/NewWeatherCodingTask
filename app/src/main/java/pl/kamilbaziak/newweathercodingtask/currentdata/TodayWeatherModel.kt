@@ -1,0 +1,17 @@
+package pl.kamilbaziak.newweathercodingtask.currentdata
+
+data class TodayWeatherModel(
+    val base: String,
+    val clouds: Clouds,
+    val cod: Int,
+    val coord: Coord,
+    val dt: Long,
+    val id: Long,
+    val main: Main,
+    val name: String,
+    val sys: Sys,
+    val timezone: Int,
+    val visibility: Int,
+    val weather: List<Weather>,
+    val wind: Wind
+)

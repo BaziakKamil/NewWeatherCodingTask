@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NewWeatherCodingTask</string>
+    <string name="updated_at">Updated at %s</string>
+    <string name="celcius_degrees">%s\u2103</string>
+    <string name="fahrenheit_degrees">%s\u2109</string>
+    <string name="feels_like">Feels like\n%s\u2103</string>
+    <string name="min_temp">Min temp\n%s\u2103</string>
+    <string name="max_temp">Max temp\n%s\u2103</string>
+    <string name="pressure">Pressure\n%s hPa</string>
+    <string name="humidity_with_break">Humidity\n%s</string>
+    <string name="sunrise">Sunrise\n%s</string>
+    <string name="sunset">Sunset\n%s</string>
+    <string name="wind">Wind\n%s</string>
+    <string name="morning_temp">Morning temp %s\u2103</string>
+    <string name="day_temp">Day temp %s\u2103</string>
+    <string name="night_temp">Night temp %s\u2103</string>
+    <string name="humidity">Humidity %s</string>
+    <string name="search">Search</string>
+    <string name="text_type_city_to_check_weather">Type city tom check weather</string>
+</resources>
